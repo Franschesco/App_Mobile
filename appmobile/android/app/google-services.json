@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "541490615997",
+    "project_id": "appmobile-ade67",
+    "storage_bucket": "appmobile-ade67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541490615997:android:f25fafc099802f360009d4",
+        "android_client_info": {
+          "package_name": "com.example.appmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOBFZO34E_zgrvT9VvzBPU_6k9BfVTsNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
